@@ -1,0 +1,1 @@
+workspace = { members = ["rsrs-derive", "rsrs"] }
